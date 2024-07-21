@@ -5,6 +5,18 @@
 This repository contains the source code and documentation for graduation project of ITI: POWER BI Track: Examination System.
 The project encompasses various components including an ERD, database creation on SQL Server, stored procedures, SSRS reports, Power BI dashboards, and a simple student portal website.
 
+
+## Intro
+Examination system for an educational institution that provides the following:
+- Dashboards for supervisors and managers to analysze student data, instructors performance and more.
+- guidance for professors to evaluate exams and get valuable feedback.
+
+## Tools:
+- Excel
+- SQL BI (SSIS, SSRS)
+- MSSQL Server
+- Power BI
+
 ## Components
 
 - *ERD (Entity-Relationship Diagram):* This visual representation illustrates the database structure and relationships between different entities in the system.
