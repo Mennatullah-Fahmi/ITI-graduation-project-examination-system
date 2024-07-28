@@ -20,8 +20,10 @@ Examination system for an educational institution that provides the following:
 ## Components
 
 - *ERD (Entity-Relationship Diagram):* This visual representation illustrates the database structure and relationships between different entities in the system.
+  ![ERD](https://github.com/Mennatullah-Fahmi/ITI-graduation-project-examination-system/blob/main/ERD/ERD_Mapping/ERD.png)
 
 - *Mapping:* Describe how data is mapped from the front end to the database and vice versa.
+   ![ERD](https://github.com/Mennatullah-Fahmi/ITI-graduation-project-examination-system/blob/main/ERD/ERD_Mapping/Mapping.png)
 
 - *Database Creation on SQL Server:* Provides instructions on setting up the database environment on SQL Server.
 
